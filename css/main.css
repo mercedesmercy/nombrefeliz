@@ -1,0 +1,39 @@
+body{
+	background-color: #025940;
+	background-repeat: no-repeat;
+	color:#D9CCB4;
+	font-family: 'Muli', sans-serif;
+}
+
+h1{
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+	color: #F2AD94;
+	font-size: 70px;
+}
+h2{
+	font-family: 'Pacifico', cursive;
+	color:#F2AD94;
+}
+
+body{
+	font-family: 'Muli', sans-serif;
+	padding:5%;
+	font-size: 30;
+}
+
+.fotos img{
+	position: fixed;
+	height: 800px;
+}
+
+.contenido{
+	padding: 10%;
+	padding-top:0;
+	padding-left:40%;
+
+}
+
+.orden{
+	display: flex;
+}
